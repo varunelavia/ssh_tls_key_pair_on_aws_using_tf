@@ -1,6 +1,6 @@
 provider "aws" {
   version    = "~> 2.0"
-  region     = "us-east-2"
+  region     = "<AWS Region>"
   access_key = "<AWS Access Key>"
   secret_key = "<AWS Secret Key>"
 }
